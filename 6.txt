@@ -1,1 +1,2 @@
 testing the git rebase. 
+Trying to make 2 commits to see how the rebase works
